@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Kumpulan Doa</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_doa">Doa</string>
+    <string name="menu_profile">Profile</string>
+    <string name="salam">Assalamualaikum</string>
+    <string name="hai">Hai, Rizky Hidayat Panjaitan</string>
+    <string name="jadwal">Jadwal Sholat Hari Ini</string>
+    <string name="nama">Rizky Hidayat Panjaitan</string>
+    <string name="ttl">Tanjung Balai, 03 Juli 1997</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="nim">0110216028</string>
+    <string name="kampus">Nurul Fikri</string>
+    <string name="juduldoa">Judul doa</string>
+    <string name="artidoa">Arti Doa</string>
+    <string name="waktusholat">Waktu Shalat</string>
+    <string name="jamsholat">Jam Sholat</string>
+    <string name="ayatdoa">Ayat</string>
+
+</resources>
